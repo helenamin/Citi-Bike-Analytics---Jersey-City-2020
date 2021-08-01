@@ -1,1 +1,1 @@
-# Citi-Bike-Analytics-Jersey-City-2020
+# Citi-Bike-Analytics-JerseyCity-2020
