@@ -5,15 +5,15 @@
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [Project Intro](#Project-Intro)
-- [Structure](#Project-Structure)
+- [Introduction](#Introduction)
+- [Structure](#Structure)
 - [Setup](#Setup)
 - [Datasets](#Datasets)
 - [Analysis](#Analysis)
 - [Contributors](#Contributors)
 - [Technology](#Technology)
 
-## Project Intro
+## Introduction
 
 ### background
 
